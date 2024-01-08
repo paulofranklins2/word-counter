@@ -1,4 +1,4 @@
-# Word Counter Project
+# Word Counter
 
 This project is a simple Java Swing application that counts the number of words in a given text. It provides a graphical user interface (GUI) for users to input text and then click a button to check the word count.
 
